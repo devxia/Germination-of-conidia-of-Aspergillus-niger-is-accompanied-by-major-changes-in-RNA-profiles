@@ -1,6 +1,6 @@
 Germination of conidia of Aspergillus niger is accompanied by major changes inRNA profiles
 
-# 黑曲霉孢子的萌发过程中RNA图谱的主要变化
+# RNA图谱的主要变化伴随黑曲霉分生孢子的萌发过程
 
 M.R. van Leeuwen[^1], P. Krijgsheld[^2], R. Bleichrodt[^2], H. Menke[^3], H. Stam[^3], J. Stark[^3], H.A.B. Wösten[^2], and J. Dijksterhuisp[^1*]
 
@@ -8,7 +8,7 @@ M.R. van Leeuwen[^1], P. Krijgsheld[^2], R. Bleichrodt[^2], H. Menke[^3], H. Sta
 
 
 
-[^*] Correspondence: Jan Dijksterhuis, <j.dijksterhuis@cbs.knaw.nl>
+[^*] Correspondence: Jan Dijksterhuis, <email>j.dijksterhuis@cbs.knaw.nl</email>
 
 
 
@@ -16,7 +16,7 @@ M.R. van Leeuwen[^1], P. Krijgsheld[^2], R. Bleichrodt[^2], H. Menke[^3], H. Sta
 
 
 
-翻译：DevXia, <devxia@gmail.com>
+翻译：DevXia, <email>devxia@gmail.com</email>
 
 
 
